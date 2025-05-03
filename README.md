@@ -1,16 +1,16 @@
-# Softeng
-
-Deskripsi Project
+# Deskripsi Project
 Program ini menerima input sejumlah bilangan bulat, mengurutkannya, dan mencetak nilai median dari sekelompok bilangan.
 
-Cara Menjalankan
+# Cara Menjalankan
 Compile file:
 g++ M.cpp -o sort
-Jalankan program:
+# Jalankan program:
 ./sort
 Masukkan jumlah kelompok a lalu 3*a angka.
-Contoh input:
+
+# Contoh input:
 2
 9 5 1 4 7 6
-Output:
+
+# Output:
 5
